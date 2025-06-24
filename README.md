@@ -1,6 +1,7 @@
 # Optimized PFE Microservices Architecture
 
 This project implements an optimized microservices architecture for a student management system with enhanced performance, caching, and monitoring capabilities.
+![Uploading serveuresxi_32734eed.gif…]()
 
 ## 🚀 Key Optimizations
 
