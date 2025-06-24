@@ -1,11 +1,12 @@
 # Optimized PFE Microservices Architecture
 
 This project implements an optimized microservices architecture for a student management system with enhanced performance, caching, and monitoring capabilities.
-![Uploading serveuresxi_32734eed.gif…]()
+
 
 ## 🚀 Key Optimizations
 
-### Backend (Core Service)
+### Backend (Core Service)![serveuresxi_32734eed](https://github.com/user-attachments/assets/b2e8de73-5bdf-48ce-a40d-7b696ac194e5)
+
 
 - **Response Caching**: Redis-based caching for frequently accessed data
 - **Async Operations**: Full async/await implementation for better concurrency
